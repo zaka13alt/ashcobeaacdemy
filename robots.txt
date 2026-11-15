@@ -1,0 +1,7 @@
+# robots.txt
+User-agent: *
+Allow: /
+Disallow: /portal/
+Disallow: /admin/
+
+Sitemap: https://example-academy.org/sitemap.xml
