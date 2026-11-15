@@ -4,4 +4,4 @@ Allow: /
 Disallow: /portal/
 Disallow: /admin/
 
-Sitemap: https://example-academy.org/sitemap.xml
+Sitemap: https://ashcobe.com/sitemap.xml
